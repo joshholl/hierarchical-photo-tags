@@ -1,0 +1,43 @@
+[~WHAT]
+	[~Sports Equipment]
+		baseball
+		baseball bat
+		basketball
+		bowling ball
+		cricket bat
+		elbow pads
+		football
+		football pants
+		goalie stick
+		goalie pads
+		helmet
+		hockey gloves
+		hockey pants
+		hockey stick
+		lacrosse stick
+		lacrosse ball
+		jersey
+		paddleboard
+			{stand up paddleboard}
+			{sup}
+		ping pong ball
+		puck
+		protective cup
+		racket
+		shoulder pads
+		singlet
+			wrestling singlet
+		skateboard
+		skates
+			ice skates
+				figure skates
+				ice hockey skates
+			roller blades
+			roller skates
+		skis
+		snowboard
+		water skis
+		rugby ball
+		surfboard
+			long board
+			wake board
