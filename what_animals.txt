@@ -1,0 +1,220 @@
+[~WHAT]
+	[~Animal]
+		amphibian
+			salamander
+				axolotl
+				hellbender
+				mudpuppy
+			frog
+				tadpole
+			newt
+			toad
+		bird
+			cardinal
+			chick
+			chicken
+			duck
+				duckling
+				mallard
+			eagle
+				bald eagle
+				golden eagle
+			egret
+			falcon
+			goose
+			gull
+				seagull
+			guinea
+			hawk
+			heron
+			hummingbird
+			kingfisher
+			kiwi
+			osprey
+			ostrich
+			owl
+			peafowl
+				peacock
+			pelican
+			penguin
+			pigeon
+			robin
+			seagull
+			songbird
+			sparrow
+			stork
+			swan
+			turkey
+			warbler
+			waterfowl
+			woodpecker
+			wren
+		shellfish
+			clam
+			crab
+			crawfish
+				{crayfish}
+				{crawdad}
+				{mudbug}
+			lobster
+			prawn
+			scallop
+			shrimp
+		fish
+			bass
+			clown fish
+			flounder
+			koi
+			salmon
+			shark
+			sheepshead
+			swordfish
+			sunfish
+			tuna
+		insect
+			{arthropod}
+			{bug}
+			ant
+				fire ant
+			bee
+				honey bee
+				bumblebee
+			beetle
+			butterfly
+			caterpillar
+			chrysalis
+			cricket
+			dragonfly
+			fly
+				horsefly
+				deerfly
+				hoverfly
+				damselfly
+			grasshopper
+			hornet
+			ladybug
+			larva
+			moth
+			mosquito
+			nymph
+			praying mantis
+			pupa
+			spider
+				{arachnid}
+				tarantula
+			wasp
+		mammal
+			aardvark
+			antelope
+			ape
+			bat
+			bear
+				black bear
+				brown bear
+				grizzly bear
+				panda bear
+				polar bear
+				sun bear
+			bison
+				{buffalo}
+			boar
+				{wild boar}
+			bonobo
+			camel
+			capybara
+			cat
+				domestic cat
+				big cat
+					cheetah
+					jaguar
+					leopard
+						snow leopard
+					lion
+					panther
+					puma
+					tiger
+			cattle
+				{cow}
+				calf
+				heifer
+				bull
+				steer
+			coyote
+			deer
+			dog
+				{canine}
+				{doggy}
+				{puppy}
+				border collie
+				chihuahua
+				golden retriever
+				labrador
+				mutt
+			dolphin
+			elephant
+			elk
+			fox
+			goat
+			gorilla
+			giraffe
+			hare
+			hippopotamus
+				{hippo}
+			horse
+				clydesdale
+				filly
+				foal
+				gelding
+				mare
+				pony
+				quarter horse
+				stallion
+			human
+			kangaroo
+				{joey}
+			koala
+			mouse
+			monkey
+			pig
+				{hog}
+				piglet
+			porpoise
+			raccoon
+			rat
+			rabbit
+			red panda
+			rhinoceros
+				{rhino}
+			sable
+			sheep
+				lamb
+				big horn sheep
+			squirrel
+			walrus
+			whale
+			wolf
+			zebra
+		reptile
+			alligator
+				{gator}
+			chameleon
+			crocodile
+				{croc}
+			gecko
+			gila monster
+			lizard
+			monitor
+			komodo drago
+			skink
+			snake
+				{serpent}
+				boa
+				cobra
+				python
+				viper
+			tortoise
+			turtle
+				box turtle
+				sea turtle
+				leatherback turtle
+				snapping turtle
