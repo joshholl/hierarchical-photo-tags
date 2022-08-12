@@ -1,0 +1,74 @@
+[~WHEN]
+    [~Event]
+        birthday
+        carnival
+        ceremony
+            bar mitzvah
+            bat mitzvah
+            bris
+            christening
+            funeral
+            wedding
+        celebration
+        concert
+        conference
+        convention
+        exhibition
+        exposition
+            {expo}
+            car show
+                {auto show}
+            air show
+            trade show
+        fair
+        family reunion
+        feast
+        festival
+        gathering
+        gig
+        graduation
+        highschool reunion
+        holiday
+            religious holiday
+                Ash Wednesday
+                Chanukah
+                    {Hanukkah}
+                Christmas
+                    {xmas}
+                Easter
+                Eid al-Adha
+                Eid al-Fitr
+                Good Friday
+                Pesach
+                    {Passover}
+                Ramadan
+            Juneteenth
+            Independence Day
+            Thanksgiving
+            Halloween
+        honeymoon
+        parade
+        party
+        sports event
+            American football game
+            baseball game
+                {ball game}
+            basketball game
+            cricket match
+            derby
+            hockey game
+            Olympics
+            soccer match
+                {soccer game}
+                {football match}
+                {football game}
+            race
+                bike race
+                car race 
+                    {auto race}
+                marathon
+                track race
+            rugby match
+            tennis match
+            tournament
+        symposium
