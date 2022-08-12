@@ -30,9 +30,11 @@ At its top level each category will be broken down into the [6W's](https://en.wi
 1. Who: A properly named person or pet.
 2. What: The descriptive subject of what you're shooting, the style (landscape etc will be in "HOW")
    1. Animals
-   2. Plants
+   2. Plants - in cases where the plant bears something edible, the edible part should go under Food
    3. Structures
    4. Concept: A top level generic holder for a societal construct
+   5. Food
+   6. Drink
 3. When: Either time of day or the type of event
    1. 
 4. Where: A properly named location such as a country, city, region, etc. Think of some place you would travel to.

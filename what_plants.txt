@@ -1,0 +1,77 @@
+[~WHAT]
+	[~Plant]
+		bush
+		flower
+			alstroemeria
+			azalea
+			begonia
+			black-eyed susan 
+				{blackeyed susan} 
+				{black eyed susan}
+			bluebell
+			buttercup
+			camellia
+			carnation
+			chrysanthemum {mum}
+			clematis
+			coneflower
+			crocus
+			daffodil
+			dahlia
+			daisy
+				gerbera daisy
+			dandelion
+			delphinium
+			dusty miller
+			evening primrose
+			forget me not
+			forsythia
+			freesia
+			gardenia
+			geranium
+			gladiolus
+			hellebore
+			hibiscus
+			hyacinth
+			hydrangea
+			iris
+			jasmine
+			lavender
+			lilac
+			lily
+				calla lily
+				waterlily
+			marigold
+			orchid
+			peony
+			periwinkle
+			petunia
+			poinsettia
+			poppy
+			queen ann's lace
+			ranunculus
+			rhododendron
+			rose
+			snapdragon
+			sunflower
+			tulip
+			violet
+			wildflower
+			zinnia
+		fungi
+		grass
+			fescue
+		moss
+		shrub
+		succulent
+			cactus
+		tree
+			ash
+			birch
+			cedar
+			elm
+			fir
+			maple
+			oak
+			palm
+		vegetable
