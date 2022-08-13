@@ -1,0 +1,15 @@
+[~WHEN]
+    [~Time of Day]
+        afternoon
+		daytime
+        daylight
+		evening
+        golden hour
+		morning
+		night
+		noon
+		sunrise
+			{dawn}
+		sunset
+			{dusk}
+            {twilight}
