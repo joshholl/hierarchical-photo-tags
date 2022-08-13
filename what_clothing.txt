@@ -1,0 +1,104 @@
+[~WHAT]
+	[~Clothing & Fashion]
+		bikini
+		belt
+		belt buckle
+		burka
+		clerical collar
+		coat
+			puffy coat
+			trench coat
+		costume
+		cummerbund
+		dress
+			kimono
+			sundress
+		head wear
+			balaclava
+			beanie
+			bowler
+			cowboy hat
+			cowgirl hat
+			fedora
+			hijab
+			stocking hat
+			yarmulke
+		jacket
+			hooded jacket
+				{hoodie}
+			leatherjacket
+			smoking jacket
+			sports jacket
+		jewelry
+			anklet
+				{ankle chain}
+			armlet
+			bracelet
+			bracers
+			broach
+			cufflinks
+			crown
+			earring
+			necklace
+			nose ring
+			ring
+			tiara
+			tie bar
+			tie clip
+			tie pin
+			tongue ring
+			waist chain
+				{belly chain}
+		jumper
+		moo moo
+		neck tie
+			{tie}
+			bolo tie
+			bow tie
+		nun habit
+		pants
+			bluejeans
+				{jeans}
+			shorts
+				cargo shorts
+				board shorts
+			slacks
+			trousers
+		parka
+		robe
+		sarong wrap
+		scarf
+		shemagh
+		shirt
+			tee-shirt
+				{tshirt}
+				{tee}
+		turtleneck
+		shoe
+			boots
+				cowboy boots
+			clog
+			crocs
+			dress shoe
+			flat
+			high heel
+			pump
+			sandal
+			slipper
+			sneaker
+			tennis shoe
+			stiletto heel
+		skirt
+		sock
+		suit
+		suspenders
+		sweater
+		swimming trunks
+		undergarment
+			{underwear}
+			briefs
+			boxer shorts
+			jockstrap
+		uniform
+		vest
+		windbreaker
