@@ -5,6 +5,7 @@
 		basketball
 		bowling ball
 		cricket bat
+		cleats
 		elbow pads
 		football
 		football pants
