@@ -1,0 +1,349 @@
+[~WHERE]
+	United States
+		{United States of America}
+		{USA}
+		Alabama
+			Birmingham
+			Huntsville
+			Mobile
+			Montgomery
+		Alaska
+			Anchorage
+		Arizona
+			Chandler
+			Gilbert
+			Glendale
+			Mesa
+			Peoria
+			Phoenix
+			Scottsdale
+			Surprise
+			Tempe
+			Tucson
+		Arkansas
+			Little Rock
+		California
+			Anaheim
+			Antioch
+			Bakersfield
+			Berkeley
+			Carlsbad
+			Chula Vista
+			Clovis
+			Concord
+			Corona
+			Costa Mesa
+			Downey
+			El Monte
+			Elk Grove
+			Escondido
+			Fairfield
+			Fontana
+			Fremont
+			Fresno
+			Fullerton
+			Garden Grove
+			Glendale
+			Hayward
+			Huntington Beach
+			Irvine
+			Jurupa Valley
+			Lancaster
+			Long Beach
+			Los Angeles
+			Menifee
+			Modesto
+			Moreno Valley
+			Murrieta
+			Oakland
+			Oceanside
+			Ontario
+			Orange
+			Oxnard
+			Palmdale
+			Pasadena
+			Pomona
+			Rancho Cucamonga
+			Richmond
+			Riverside
+			Roseville
+			Sacramento
+			Salinas
+			San Bernardino
+			San Buenaventura (Ventura)
+			San Diego
+			San Francisco
+			San Jose
+			Santa Ana
+			Santa Clara
+			Santa Clarita
+			Santa Maria
+			Santa Rosa
+			Simi Valley
+			Stockton
+			Sunnyvale
+			Temecula
+			Thousand Oaks
+			Torrance
+			Vallejo
+			Victorville
+			Visalia
+			West Covina
+		Colorado
+			Arvada
+			Aurora
+			Centennial
+			Colorado Springs
+			Denver
+			Fort Collins
+			Greeley
+			Lakewood
+			Pueblo
+			Thornton
+			Westminster
+		Connecticut
+			Bridgeport
+			Hartford
+			New Haven
+			Stamford
+			Waterbury
+		District of Columbia
+			Washington
+		Florida
+			Cape Coral
+			Clearwater
+			Coral Springs
+			Fort Lauderdale
+			Gainesville
+			Hialeah
+			Hollywood
+			Jacksonville
+			Lakeland
+			Miami
+			Miami Gardens
+			Miramar
+			Orlando
+			Palm Bay
+			Pembroke Pines
+			Pompano Beach
+			Port St. Lucie
+			St. Petersburg
+			Tallahassee
+			Tampa
+			West Palm Beach
+		Georgia
+			Atlanta
+			Augusta
+			Columbus
+			Macon
+			Sandy Springs
+			Savannah
+			South Fulton
+		Hawaii
+			Honolulu
+		Idaho
+			Boise
+			Meridian
+			Nampa
+		Illinois
+			Aurora
+			Chicago
+			Elgin
+			Joliet
+			Naperville
+			Peoria
+			Rockford
+			Springfield
+		Indiana
+			Evansville
+			Fort Wayne
+			Indianapolis
+		Iowa
+			Cedar Rapids
+			Des Moines
+		Kansas
+			Kansas City
+			Olathe
+			Overland Park
+			Topeka
+			Wichita
+		Kentucky
+			Lexington
+			Louisville
+		Louisiana
+			Baton Rouge
+			Lafayette
+			New Orleans
+			Shreveport
+		Maryland
+			Baltimore
+		Massachusetts
+			Boston
+			Brockton
+			Cambridge
+			Lowell
+			Springfield
+			Worcester
+		Michigan
+			Ann Arbor
+			Dearborn
+			Detroit
+			Grand Rapids
+			Lansing
+			Sterling Heights
+			Warren
+		Minnesota
+			Minneapolis
+			Rochester
+			Saint Paul
+		Mississippi
+			Jackson
+		Missouri
+			Columbia
+			Independence
+			Kansas City
+			Springfield
+			St. Louis
+		Montana
+			Billings
+		Nebraska
+			Lincoln
+			Omaha
+		Nevada
+			Henderson
+			Las Vegas
+			North Las Vegas
+			Reno
+			Sparks
+		New Hampshire
+			Manchester
+		New Jersey
+			Elizabeth
+			Jersey City
+			Newark
+			Paterson
+		New Mexico
+			Albuquerque
+			Las Cruces
+			Rio Rancho
+		New York
+			Buffalo
+			New York
+			Rochester
+			Syracuse
+			Yonkers
+		North Carolina
+			Cary
+			Charlotte
+			Concord
+			Durham
+			Fayetteville
+			Greensboro
+			High Point
+			Raleigh
+			Wilmington
+			Winston-Salem
+		North Dakota
+			Fargo
+		Ohio
+			Akron
+			Cincinnati
+			Cleveland
+			Columbus
+			Dayton
+			Toledo
+		Oklahoma
+			Broken Arrow
+			Norman
+			Oklahoma City
+			Tulsa
+		Oregon
+			Eugene
+			Gresham
+			Hillsboro
+			Portland
+			Salem
+		Pennsylvania
+			Allentown
+			Philadelphia
+			Pittsburgh
+		Rhode Island
+			Providence
+		South Carolina
+			Charleston
+			Columbia
+			North Charleston
+		South Dakota
+			Sioux Falls
+		Tennessee
+			Chattanooga
+			Clarksville
+			Knoxville
+			Memphis
+			Murfreesboro
+			Nashville
+		Texas
+			Abilene
+			Allen
+			Amarillo
+			Arlington
+			Austin
+			Beaumont
+			Brownsville
+			Carrollton
+			College Station
+			Corpus Christi
+			Dallas
+			Denton
+			El Paso
+			Fort Worth
+			Frisco
+			Garland
+			Grand Prairie
+			Houston
+			Irving
+			Killeen
+			Laredo
+			League City
+			Lewisville
+			Lubbock
+			McAllen
+			McKinney
+			Mesquite
+			Midland
+			Odessa
+			Pasadena
+			Pearland
+			Plano
+			Richardson
+			Round Rock
+			San Antonio
+			Sugar Land
+			Tyler
+			Waco
+		Utah
+			Provo
+			Salt Lake City
+			West Jordan
+			West Valley City
+		Virginia
+			Alexandria
+			Chesapeake
+			Hampton
+			Newport News
+			Norfolk
+			Richmond
+			Virginia Beach
+		Washington
+			Bellevue
+			Everett
+			Kent
+			Seattle
+			Spokane
+			Spokane Valley
+			Tacoma
+			Vancouver
+		Wisconsin
+			Green Bay
+			Madison
+			Milwaukee
