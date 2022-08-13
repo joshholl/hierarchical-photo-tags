@@ -18,6 +18,9 @@
         christmas tree
 		christmas light
 		chandelier
+		clock
+			grandfather clock
+			alarm clock
 		comforter
 		crock
         curtain

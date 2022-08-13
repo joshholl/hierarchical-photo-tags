@@ -12,6 +12,8 @@
 		fan
 		food processor
 		freezer
+		fryer
+			air fryer
 		microwave oven
 			{microwave}
 		mixer

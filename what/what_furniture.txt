@@ -5,11 +5,14 @@
         bean bag
             {beanbag}
         bed
+			daybed
         bench
         bookshelf
             {bookcase}
+		buffet
         cabinet
 			liquor cabinet
+			curio cabinet
         chair
             armchair
             dining room chair
@@ -33,10 +36,16 @@
                 {standing desk}
             writing desk
         hutch
+		loveseat
+		magazine rack
         media center
         nightstand
             {bedside table}
+		ottoman
         room divider
+		sectional sofa
+			{sectional}
+		shelf
         stool
             bar stool
             foot stool
