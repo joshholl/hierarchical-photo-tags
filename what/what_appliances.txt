@@ -1,0 +1,31 @@
+[~WHAT]
+	[~Appliances]
+		air conditioner
+		blender
+		coffee maker
+		cooktop
+		crock pot
+		dryer
+		deep freeze
+		deep fryer
+		espresso machine
+		fan
+		food processor
+		freezer
+		fryer
+			air fryer
+		microwave oven
+			{microwave}
+		mixer
+			stand mixer
+		oven
+		pressure cooker
+			instapot
+		range
+		refrigerator
+		rice cooker
+		toaster
+		toaster oven
+		washing machine
+		water heater
+		waffle iron

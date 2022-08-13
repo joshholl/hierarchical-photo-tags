@@ -1,0 +1,61 @@
+[~WHAT]
+    [~Furniture]
+        bar
+		bakers rack
+        bean bag
+            {beanbag}
+        bed
+			daybed
+        bench
+        bookshelf
+            {bookcase}
+		buffet
+        cabinet
+			liquor cabinet
+			curio cabinet
+        chair
+            armchair
+            dining room chair
+            office chair
+            reclining chair
+                {recliner}
+            rocking chair
+                {rocker}
+        chaise lounge
+            {chaise}
+        chest
+        chest of drawers
+            {dresser}
+        china cabinet
+        couch
+            {sofa}
+        desk
+            drafting desk
+            height adjustable desk
+                {sit stand desk}
+                {standing desk}
+            writing desk
+        hutch
+		loveseat
+		magazine rack
+        media center
+        nightstand
+            {bedside table}
+		ottoman
+        room divider
+		sectional sofa
+			{sectional}
+		shelf
+        stool
+            bar stool
+            foot stool
+        table
+            console table
+                {couch table}
+            coffee table
+            dining room table
+            kitchen table
+            end table
+        wardrobe
+		wine rack
+        work bench

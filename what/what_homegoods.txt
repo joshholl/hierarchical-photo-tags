@@ -1,0 +1,72 @@
+[~WHAT]
+	[~Home Goods & Decor]
+	    art print
+        artificial plant
+            {silk flower}
+        basket
+		bed skirt
+			{dust ruffle}
+			{duvet}
+		bed spread
+		blanket
+		broom
+		bottle
+		candelabra
+		candle
+		canister
+		canning jar
+        christmas tree
+		christmas light
+		chandelier
+		clock
+			grandfather clock
+			alarm clock
+		comforter
+		crock
+        curtain
+		dish rag
+		dish sponge
+		drinking glass
+        framed art
+		fork
+        house plant
+		knife
+			butcher knife
+			paring knife
+		ladle
+        lamp
+            desk lamp
+		menorah
+        mirror
+		mop
+		mug
+		napkin
+		napkin ring
+        nightlight
+        ornament
+		pan
+		pepper mill
+		place mat
+		pot
+			stock pot
+		rug
+			area rug
+		salt shaker
+		sauce pan
+		skillet
+		sconce
+		shot glass
+		soap dispense
+		spoon
+		tankard
+        tapestry
+        throw pillow
+		toilet plunger
+		toothbrush holder
+        trinket
+            {bauble}
+            {knick knack}
+            {bric-a-brac}
+        vase
+		welcome mat
+		whisk
