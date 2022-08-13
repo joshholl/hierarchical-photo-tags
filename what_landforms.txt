@@ -1,0 +1,94 @@
+[~WHAT]
+	[~Landforms and Water Bodies]
+		alluvial fan
+		arête
+		arch
+		atoll
+		bay
+		bayou
+		beach
+		billabong
+		breaking wave
+		butte
+		caldera
+		canal
+		canyon
+		cape
+		cave
+		channel
+		cirque
+		cliff
+		coast
+		continental shelf
+		coral reef
+		cove
+		creek
+		desert
+		dry lake
+		dune
+			{sand dune}
+		esker
+		estuary
+		fjord
+		flat
+		floodplain
+		geyser
+		glacier
+		gulf
+		guyot
+		high island
+		hill
+		ice field
+		ice sheet
+		island
+		isthmus
+		lagoon
+		lake
+		land bridge
+		lava dome
+		lava field
+		levee
+		marsh
+		meander
+		mid-ocean ridge
+		mountain
+		mountain range
+		oasis
+		ocean
+		oceanic trench
+		peninsula
+		plain
+		plateau
+		pond
+		puddle
+		rapids
+		ridge
+		river
+		river delta
+		river mouth
+		sandhill
+		sea
+		seamount
+		shut-in
+		spring
+		steppe
+		strait
+		stream
+			{brook}
+			{creek}
+			{rivulet}
+		submarine volcano
+		swamp
+		table
+		tarn
+		tundra
+		tunnel valley
+		valley
+		volcanic crater
+		volcanic crater lake
+		volcanic plateau
+		volcanic plug
+		volcano
+		wall rock
+		waterfall
+		wave
