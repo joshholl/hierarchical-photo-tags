@@ -1,10 +1,6 @@
 [~WHAT]
-    [~Furniture & Decor]
-        art print
-        artificial plant
-            {silk flower}
+    [~Furniture]
         bar
-        basket
         bean bag
             {beanbag}
         bed
@@ -12,7 +8,6 @@
         bookshelf
             {bookcase}
         cabinet
-        candle
         chair
             armchair0
             dining room chair
@@ -27,27 +22,18 @@
         chest of drawers
             {dresser}
         china cabinet
-        christmas tree
         couch
             {sofa}
-        curtain
         desk
             drafting desk
             height adjustable desk
                 {sit stand desk}
                 {standing desk}
             writing desk
-        framed art
-        house plant
         hutch
-        lamp
-            desk lamp
         media center
-        mirror
-        nightlight
         nightstand
             {bedside table}
-        ornament
         room divider
         stool
             bar stool
@@ -59,12 +45,5 @@
             dining room table
             kitchen table
             end table
-        tapestry
-        throw pillow
-        trinket
-            {bauble}
-            {knick knack}
-            {bric-a-brac}
-        vase
         wardrobe
         work bench
