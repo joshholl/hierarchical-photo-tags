@@ -1,10 +1,10 @@
 [~WHEN]
-    [~Time of Day]
-        afternoon
+	[~Time of Day]
+		afternoon
 		daytime
-        daylight
+		daylight
 		evening
-        golden hour
+		golden hour
 		morning
 		night
 		noon
@@ -12,4 +12,4 @@
 			{dawn}
 		sunset
 			{dusk}
-            {twilight}
+			{twilight}

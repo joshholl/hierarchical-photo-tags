@@ -5,8 +5,8 @@
 			alstroemeria
 			azalea
 			begonia
-			black-eyed susan 
-				{blackeyed susan} 
+			black-eyed susan
+				{blackeyed susan}
 				{black eyed susan}
 			bluebell
 			buttercup
