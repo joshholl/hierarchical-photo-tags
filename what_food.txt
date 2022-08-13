@@ -1,0 +1,115 @@
+[~WHAT]
+	[~Food]
+		bagel
+		baked potato
+		black pepper
+		bread
+		butter
+		cake
+			wedding cake
+			cupcake
+		candy
+		cookie
+		cooking oil
+		croissant
+		casserole
+			{hot dish}
+		cereal
+			barley
+			oat
+			rice
+			wheat
+		cheese
+		cheese curds
+		chile
+		chocolate
+		curry
+		donut
+			{doughnut}
+		flour
+		french fries
+			{fries}
+		fruit
+			apple
+			apricot
+			avocado
+			banana
+			berry
+				blackberry
+				blueberry
+				cranberry
+				kiwi fruit
+				passion fruit
+				raspberry
+				strawberry
+			cherry
+			citrus
+				orange
+				pomelo
+				grapefruit
+				lime
+				lemon
+			coconut
+			grape
+			mango
+			nectarine
+			papaya
+			pear
+			pineapple
+			plum
+			pumpkin
+			rhubarb
+			star fruit
+			tangerine
+		garlic
+		ice cream
+		ketchup
+			{catsup}
+		margarine
+		meat
+			bacon
+			beef
+			pork
+			poultry
+			sausage
+			seafood
+			steak
+		mushroom
+		mustard
+		noodle
+			pasta
+		pastry
+		pepper
+		peppercorn
+		pie
+		pizza
+		poutine
+		salt
+		sandwich
+			hamburger
+				{hamburger}
+			po boy
+			sub sandwich
+				{hoagie}
+				{grinder sandwich}
+		soup
+			pho
+			ramen
+		sushi
+		tart
+		vegetable
+			bean
+				green bean
+			carrot
+			corn
+			lettuce
+			onion
+			pea
+			potato
+			radish
+			spinach
+			tomato
+				roma tomato
+					{roma}
+		vinegar
+		yogurt

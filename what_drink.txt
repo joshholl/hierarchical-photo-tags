@@ -1,0 +1,51 @@
+[~WHAT]
+	[~Food & Drink]
+		alcohol
+		ale
+		beer
+		champagne
+		cider
+		cocktail
+		coffee
+			cappuccino
+			espresso
+			latte
+		cream
+		hot chocolate
+		juice
+			apple juice
+			cranberry juice
+			grape juice
+			orange juice
+		liquor
+		mate
+		milk
+			almond milk
+			cashew milk
+			cow milk
+			goat milk
+			sheep milk
+			soy milk
+		tea
+			black tea
+			green tea
+			herbal tea
+		teabag
+		soda
+			{pop}
+			{soda pop}
+			cola
+		spirits
+			absinthe
+			gin
+			mezcal
+			tequila
+			vodka
+			whiskey
+			rum
+		water
+		wine
+			red wine
+			white wine
+			chardonnay
+			zinfandel
