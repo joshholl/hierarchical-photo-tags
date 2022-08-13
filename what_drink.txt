@@ -1,5 +1,5 @@
 [~WHAT]
-	[~Food & Drink]
+	[~Drink]
 		alcohol
 		ale
 		beer
