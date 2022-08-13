@@ -1,6 +1,7 @@
 [~WHAT]
     [~Furniture]
         bar
+		bakers rack
         bean bag
             {beanbag}
         bed
@@ -8,8 +9,9 @@
         bookshelf
             {bookcase}
         cabinet
+			liquor cabinet
         chair
-            armchair0
+            armchair
             dining room chair
             office chair
             reclining chair
@@ -46,4 +48,5 @@
             kitchen table
             end table
         wardrobe
+		wine rack
         work bench
